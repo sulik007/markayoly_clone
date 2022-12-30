@@ -34,7 +34,7 @@ const Header = () => {
                     <RxPerson className='w-7 h-5'/>
                     <p>Giris</p>
                     </div>
-                    <div className='mx-4 space-y-1'>
+                    <div className='mx-4 space-y-2'>
                     <BsHeart className='w-7 h-5 mx-auto'/>
                     <p>Halanlarym</p>
                     </div>
